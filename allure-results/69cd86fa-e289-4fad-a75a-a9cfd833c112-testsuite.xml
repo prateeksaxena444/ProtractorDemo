@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1596546299968' stop='1596546322004'>
+    <name>Calculator scenerios</name>
+    <title>Calculator scenerios</title>
+    <test-cases>
+        <test-case start='1596546299970' status='passed' stop='1596546304491'>
+            <name>lauch website</name>
+            <title>lauch website</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1596546304492' status='passed' stop='1596546311366'>
+            <name>Addition</name>
+            <title>Addition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1596546311366' status='passed' stop='1596546319091'>
+            <name>subtraction</name>
+            <title>subtraction</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1596546319091' status='passed' stop='1596546321998'>
+            <name>close browser</name>
+            <title>close browser</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

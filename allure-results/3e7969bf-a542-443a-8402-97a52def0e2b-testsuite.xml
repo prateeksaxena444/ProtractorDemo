@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1599634701763' stop='1599634718523'>
+    <name>Calculator scenerios</name>
+    <title>Calculator scenerios</title>
+    <test-cases>
+        <test-case start='1599634701764' status='passed' stop='1599634705989'>
+            <name>launch website</name>
+            <title>launch website</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1599634705990' status='passed' stop='1599634712825'>
+            <name>Addition</name>
+            <title>Addition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1599634712826' status='passed' stop='1599634718520'>
+            <name>subtraction</name>
+            <title>subtraction</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

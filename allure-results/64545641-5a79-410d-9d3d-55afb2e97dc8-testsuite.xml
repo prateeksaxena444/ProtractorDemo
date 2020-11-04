@@ -1,0 +1,52 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1596621356702' stop='1596621379291'>
+    <name>Calculator scenerios</name>
+    <title>Calculator scenerios</title>
+    <test-cases>
+        <test-case start='1596621356703' status='passed' stop='1596621361647'>
+            <name>lauch website</name>
+            <title>lauch website</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1596621361648' status='passed' stop='1596621368446'>
+            <name>Addition</name>
+            <title>Addition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1596621368447' status='failed' stop='1596621376189'>
+            <name>subtraction</name>
+            <title>subtraction</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Expected '20' to be '5'.</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.&lt;anonymous> (G:\protractor workspace\ProtractorDemo\tests\calculator.js:43:34)
+                    at C:\Users\Prateek\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\Prateek\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\Prateek\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\Prateek\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\Prateek\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\Prateek\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\Prateek\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\Prateek\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1596621376190' status='passed' stop='1596621379289'>
+            <name>close browser</name>
+            <title>close browser</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

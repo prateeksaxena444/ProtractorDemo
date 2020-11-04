@@ -1,0 +1,16 @@
+{
+  "UC1": {
+    "firstValue": "5",
+    "secondValue": "15",
+    "operation":"+",
+    "expected":"20"
+  },
+
+  "UC2" : {
+    "firstValue": "20",
+    "secondValue": "10",
+    "operation":"-",
+    "expected":"10"
+  }
+
+}
